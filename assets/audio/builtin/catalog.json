@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "sfx.whoosh.01",
+      "kind": "sfx",
+      "title": "Whoosh 01",
+      "category": "transitions",
+      "path": "whoosh-01.wav",
+      "duration": 0.8,
+      "tags": [
+        "whoosh",
+        "переход"
+      ]
+    },
+    {
+      "id": "sfx.impact.01",
+      "kind": "sfx",
+      "title": "Impact 01",
+      "category": "удары",
+      "path": "impact-01.wav",
+      "duration": 0.6,
+      "tags": [
+        "impact",
+        "удар",
+        "boom"
+      ]
+    },
+    {
+      "id": "sfx.riser.01",
+      "kind": "sfx",
+      "title": "Riser 01",
+      "category": "райзеры",
+      "path": "riser-01.wav",
+      "duration": 1.5,
+      "tags": [
+        "riser",
+        "подъём",
+        "sweep"
+      ]
+    },
+    {
+      "id": "sfx.click.01",
+      "kind": "sfx",
+      "title": "Click 01",
+      "category": "интерфейс",
+      "path": "click-01.wav",
+      "duration": 0.1,
+      "tags": [
+        "click",
+        "интерфейс",
+        "ui"
+      ]
+    },
+    {
+      "id": "sfx.swish.01",
+      "kind": "sfx",
+      "title": "Swish 01",
+      "category": "переходы",
+      "path": "swish-01.wav",
+      "duration": 0.5,
+      "tags": [
+        "swish",
+        "переход"
+      ]
+    },
+    {
+      "id": "sfx.glitch.01",
+      "kind": "sfx",
+      "title": "Glitch 01",
+      "category": "техника",
+      "path": "glitch-01.wav",
+      "duration": 0.3,
+      "tags": [
+        "glitch",
+        "цифровой"
+      ]
+    },
+    {
+      "id": "sfx.pop.01",
+      "kind": "sfx",
+      "title": "Pop 01",
+      "category": "интерфейс",
+      "path": "pop-01.wav",
+      "duration": 0.2,
+      "tags": [
+        "pop",
+        "всплытие"
+      ]
+    },
+    {
+      "id": "sfx.typing.01",
+      "kind": "sfx",
+      "title": "Typing 01",
+      "category": "интерфейс",
+      "path": "typing-01.wav",
+      "duration": 0.4,
+      "tags": [
+        "typing",
+        "клавиатура"
+      ]
+    },
+    {
+      "id": "sfx.shutter.01",
+      "kind": "sfx",
+      "title": "Camera Shutter",
+      "category": "техника",
+      "path": "shutter-01.wav",
+      "duration": 0.15,
+      "tags": [
+        "shutter",
+        "камера",
+        "click"
+      ]
+    },
+    {
+      "id": "sfx.notification.01",
+      "kind": "sfx",
+      "title": "Notification",
+      "category": "интерфейс",
+      "path": "notification-01.wav",
+      "duration": 0.4,
+      "tags": [
+        "notification",
+        "уведомление"
+      ]
+    },
+    {
+      "id": "sfx.sparkle.01",
+      "kind": "sfx",
+      "title": "Sparkle 01",
+      "category": "переходы",
+      "path": "sparkle-01.wav",
+      "duration": 0.6,
+      "tags": [
+        "sparkle",
+        "блеск"
+      ]
+    },
+    {
+      "id": "sfx.subdrop.01",
+      "kind": "sfx",
+      "title": "Sub Drop 01",
+      "category": "удары",
+      "path": "subdrop-01.wav",
+      "duration": 0.8,
+      "tags": [
+        "sub-drop",
+        "bass"
+      ]
+    },
+    {
+      "id": "sfx.buzzer.01",
+      "kind": "sfx",
+      "title": "Buzzer 01",
+      "category": "интерфейс",
+      "path": "buzzer-01.wav",
+      "duration": 0.5,
+      "tags": [
+        "buzzer",
+        "сигнал"
+      ]
+    },
+    {
+      "id": "sfx.chime.01",
+      "kind": "sfx",
+      "title": "Chime 01",
+      "category": "интерфейс",
+      "path": "chime-01.wav",
+      "duration": 1.0,
+      "tags": [
+        "chime",
+        "звон"
+      ]
+    },
+    {
+      "id": "sfx.drum.01",
+      "kind": "sfx",
+      "title": "Drum Hit 01",
+      "category": "удары",
+      "path": "drum-01.wav",
+      "duration": 0.5,
+      "tags": [
+        "drum",
+        "удар",
+        "percussion"
+      ]
+    },
+    {
+      "id": "sfx.laser.01",
+      "kind": "sfx",
+      "title": "Laser 01",
+      "category": "техника",
+      "path": "laser-01.wav",
+      "duration": 0.4,
+      "tags": [
+        "laser",
+        "sci-fi"
+      ]
+    },
+    {
+      "id": "sfx.explosion.01",
+      "kind": "sfx",
+      "title": "Explosion 01",
+      "category": "удары",
+      "path": "explosion-01.wav",
+      "duration": 1.0,
+      "tags": [
+        "explosion",
+        "взрыв"
+      ]
+    },
+    {
+      "id": "sfx.alarm.01",
+      "kind": "sfx",
+      "title": "Alarm 01",
+      "category": "интерфейс",
+      "path": "alarm-01.wav",
+      "duration": 0.8,
+      "tags": [
+        "alarm",
+        "тревога"
+      ]
+    },
+    {
+      "id": "sfx.waterdrop.01",
+      "kind": "sfx",
+      "title": "Water Drop",
+      "category": "природа",
+      "path": "waterdrop-01.wav",
+      "duration": 0.4,
+      "tags": [
+        "water",
+        "капля"
+      ]
+    },
+    {
+      "id": "sfx.wind.01",
+      "kind": "sfx",
+      "title": "Wind Gust",
+      "category": "природа",
+      "path": "wind-01.wav",
+      "duration": 1.0,
+      "tags": [
+        "wind",
+        "ветер"
+      ]
+    },
+    {
+      "id": "sfx.coin.01",
+      "kind": "sfx",
+      "title": "Coin Collect",
+      "category": "интерфейс",
+      "path": "coin-01.wav",
+      "duration": 0.3,
+      "tags": [
+        "coin",
+        "сбор"
+      ]
+    },
+    {
+      "id": "sfx.page_turn.01",
+      "kind": "sfx",
+      "title": "Page Turn",
+      "category": "интерфейс",
+      "path": "page_turn-01.wav",
+      "duration": 0.3,
+      "tags": [
+        "page",
+        "turn"
+      ]
+    },
+    {
+      "id": "sfx.error.01",
+      "kind": "sfx",
+      "title": "Error Buzz",
+      "category": "интерфейс",
+      "path": "error-01.wav",
+      "duration": 0.4,
+      "tags": [
+        "error",
+        "ошибка"
+      ]
+    },
+    {
+      "id": "sfx.success.01",
+      "kind": "sfx",
+      "title": "Success Chime",
+      "category": "интерфейс",
+      "path": "success-01.wav",
+      "duration": 0.6,
+      "tags": [
+        "success",
+        "успех"
+      ]
+    },
+    {
+      "id": "music.drone.01",
+      "kind": "music",
+      "title": "Ambient Drone",
+      "category": "музыка",
+      "path": "drone-01.wav",
+      "duration": 4.0,
+      "tags": [
+        "ambient",
+        "loop",
+        "muzyka"
+      ]
+    }
+  ]
+}
